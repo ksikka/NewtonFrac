@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=a\ b\ c\ d\ e\ f
+comment0.target=void\ initialize(int,\ int,\ int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=int\ roots()
+comment2.params=z
+comment2.target=int[]\ magic(Complex)
+comment3.params=z
+comment3.target=Complex\ iterate(Complex)
+comment4.params=z
+comment4.target=Complex\ function(Complex)
+comment5.params=z
+comment5.target=Complex\ derivative(Complex)
+comment6.params=c\ iterations
+comment6.target=int\ converges(Complex,\ double)
+numComments=7
